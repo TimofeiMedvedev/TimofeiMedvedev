@@ -11,15 +11,12 @@ I am currently studying backend-development in Python and testing.**
     <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" title="JWT" alt="JWT"/>&nbsp;
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>&nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
-    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
     <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite"/>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
     <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white" title="Gunicorn" alt="Gunicorn"/>&nbsp;
     <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=flat&logo=nginx&logoColor=white" title="Nginx" alt="Nginx"/>&nbsp;
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
-    <img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
-    <img src="https://img.shields.io/badge/LATEX-%23008080.svg?style=flat&logo=latex&logoColor=white" title="Latex" alt="Latex"/>
 </div>
 
 <!---
